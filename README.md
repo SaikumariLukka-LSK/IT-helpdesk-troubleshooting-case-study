@@ -9,3 +9,4 @@ I wrote questions to clarify the issue, identified three possible causes, and ch
 I explained why the unexpected pop-ups warranted escalation to Tier 2, what I would include in the handover, and how I would verify that the issues were resolved before closing the ticket.
 
 **Skills practised:** Windows troubleshooting, Wi-Fi triage, security awareness, ticket escalation and documentation.
+[View the full case study (PDF)](./Help_Desk_Troubleshooting_Case_Study.pdf)
