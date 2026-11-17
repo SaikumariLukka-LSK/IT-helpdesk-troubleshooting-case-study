@@ -1,5 +1,5 @@
 
-![IT Help Desk Troubleshooting Case Study cover](./troubleshooting-cover.png)
+![IT Help Desk Troubleshooting Case Study cover](./IT%20Help%20Desk%20Troubleshooting%20Case%20Study.png)
 
 # IT-helpdesk-troubleshooting-case-study
 A Tier 1 help desk case study applying the CompTIA troubleshooting methodology to a slow Windows 10 laptop, recurring Wi-Fi drops, and unexpected pop-ups.
